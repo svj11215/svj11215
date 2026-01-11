@@ -48,13 +48,6 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svj11215&show_icons=true&theme=radical" alt="Shreyash's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svj11215&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="350" />
-</p>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Keep_Coding-Celebrate-orange?style=for-the-badge&logo=rocket" />
