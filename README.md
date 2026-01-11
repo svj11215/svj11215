@@ -1,22 +1,53 @@
-<h1 align="center">Hello👋, Shreyash Jadhav here </h1>
-<h3 align="center">Learning and building , step by step</h3>
+<h1 align="center">Hi 👋, I'm Shreyash Jadhav</h1>
+<h3 align="center">BTech CSE Undergrad | Learning & Building Step by Step</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=svj11215&label=Profile%20views&color=0e75b6&style=flat" alt="svj11215" /> </p>
-
-<p align="left"> <a href="https://twitter.com/jadhavshre40135" target="blank"><img src="https://img.shields.io/twitter/follow/jadhavshre40135?logo=twitter&style=for-the-badge" alt="jadhavshre40135" /></a> </p>
-
-- 🌱 I’m currently learning **Btech CSE undergrad**
-
-- 📫 How to reach me **shreyashj060@gmail.com**
-
-- ⚡ Fun fact **"Hello World!" has been coding's first step since 1972**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jadhavshre40135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jadhavshre40135" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://views.whatilearened.today/views/github/svj11215.svg" alt="Views" />
+  <a href="https://twitter.com/jadhavshre40135"><img src="https://img.shields.io/twitter/follow/jadhavshre40135?logo=twitter&style=for-the-badge&color=1DA1F2" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=svj11215&show_icons=true&locale=en&layout=compact" alt="svj11215" /></p>
+---
+
+### 💫 About Me
+- 🎓 Currently pursuing **BTech in Computer Science Engineering**
+- 🚀 Passionate about building scalable applications and exploring AI
+- 📫 Reach me at: **shreyashj060@gmail.com**
+- ⚡ **Fun Fact:** "Hello World!" has been coding's first step since 1972.
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" /></a>
+  <a href="https://python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" /></a>
+  <a href="https://cprogramming.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C" /></a>
+  <a href="https://w3.org/html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /></a>
+  <a href="https://w3schools.com/css"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /></a>
+</p>
+
+---
+
+### 📊 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=svj11215&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svj11215&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svj11215&theme=tokyonight" alt="Streak" />
+</p>
+
+---
+
+### 🎆 Energy & Contribution
+<p align="center">
+  <img src="https://github-user-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake.svg?variant=dark" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
