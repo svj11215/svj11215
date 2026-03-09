@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Jadhav</h1>
-<h3 align="center">BTech CSE Undergrad | Java Developer | Problem Solver</h3>
+<h3 align="center">BTech CSE Undergrad | Java Developer | Problem Solver |  OS</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 - 🎓 **Education:** Currently pursuing BTech in Computer Science Engineering.
-- 💻 **Focus:** Building robust applications using **Java** and **Python**.
+- 💻 **Focus:** Building cool stuff that matters.
 - 📫 **Contact:** shreyashj060@gmail.com
 - ⚡ **Fun Fact:** "Hello World!" was first used at Bell Labs in 1972.
 
@@ -42,6 +42,18 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
       <br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=apple" width="40" height="40" alt="Apple" />
+      <br>Xcode
     </td>
   </tr>
 </table>
